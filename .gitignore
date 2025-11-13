@@ -1,0 +1,21 @@
+# --- Banco de Dados do SQLite ---
+# Ignora todos os arquivos .db e seus arquivos de "diário"
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# --- Arquivos do Python ---
+# Ignora a pasta de cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# --- Configurações do VS Code ---
+# Ignora as configurações pessoais do editor
+.vscode/
+
+# --- Arquivos de Sistema ---
+# Ignora arquivos de sistema do macOS e Windows
+.DS_Store
+Thumbs.db
