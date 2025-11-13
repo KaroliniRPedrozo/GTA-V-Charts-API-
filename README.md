@@ -80,7 +80,7 @@ Deixe este terminal rodando em segundo plano para construir seu banco de dados.
 python coletor.py
 ```
 
-**Terminal 2 (Para ver o gráfico):
+**Terminal 2 (Para ver o gráfico):**
 
 Depois de deixar o coletor rodar por um tempo (pelo menos 30-60 minutos), rode o script do gráfico:
 
